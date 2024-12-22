@@ -3,8 +3,9 @@
 ### **1. EXECUTIVE SUMMARY**
 
 **1.1 Purpose & Vision**  
-- **Purpose**: Deliver an industry-defining Customer Excellence Ecosystem (CEE) for our ride-hailing platform, ensuring unmatched user satisfaction, brand loyalty, and global regulatory compliance.  
-- **Vision**: Become the **benchmark** for any mobility platform that aspires to a holistic, data-driven, and continuously improving customer experience.
+- **Purpose**: Deliver an industry-defining **Customer Excellence Ecosystem (CEE)** that revolutionizes how passengers, drivers, and our internal teams experience the ride-hailing platform.  
+- **Vision**: Become the **global benchmark** in mobility, seamlessly blending **personalized UX**, **proactive driver excellence**, **robust compliance**, and **brand synergy**—all supported by **advanced analytics** and **iterative improvement**.
+
 
 **1.2 Strategic Objectives**
 
@@ -24,7 +25,7 @@
 **2.1 Current State Audit**  
 - **User Journeys**: Booking flows, fare transparency, in-ride experience, driver interactions, post-ride feedback & loyalty.  
 - **Operational Processes**: Customer Support (CS), driver onboarding, marketing campaigns, QA, compliance checks, brand messaging.  
-- **Technology Stack**: Mobile apps (iOS/Android), back-end services, data pipelines, analytics, CRM, and legal compliance modules.
+- **Technology Stack**: Mobile apps (iOS/Android), back-end services, data pipelines, analytics, Mobile Data Terminals, CRM, and legal compliance modules.
 
 **2.2 Future State Aspirations**  
 - **Seamless, Personalized UX**: Users feel the platform “knows” them, from pick-up preferences to loyalty rewards.  
@@ -34,14 +35,7 @@
 
 ---
 
-## **3. DETAILED FEATURE/IDEA LIST: PROBLEM, APPROACH, OKR LINK**
-
-Below is a **master table** consolidating the long list of features/ideas you provided, each with the **problem it solves**, a **proposed approach** (briefly), and how it **ties to OKRs**. Where relevant, I’ve also added **potential metrics**, **brand/compliance** notes, and a recommended **priority** (Quick Win, Small Initiative, Medium, Large).
-
-> **Note**: This table is large, but it reflects the depth you want. Afterward, we’ll show how each fits into a **phased roadmap** with iterative feedback loops.
-
-
-# **1. SUMMARY OF KEY PAIN POINTS**
+## **3. SUMMARY OF KEY PAIN POINTS**
 
 The table below consolidates **app store feedback** and user complaints, grouped by category. **Names have been removed** to protect user privacy. Where direct quotes are available, we have redacted identifying details.
 
@@ -67,20 +61,20 @@ The table below consolidates **app store feedback** and user complaints, grouped
 
 ---
 
-# **2. PROPOSED OKRs FOR RESOLVING PAIN POINTS**
+# **4. PROPOSED OKRs FOR RESOLVING PAIN POINTS**
 
 | **Objective (O)**                                         | **Key Results (KR)**                                                                                         |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
-| **O1. Enhance Location Accuracy & Dispatch Efficiency**   | **KR1.1:** Reduce “driver can’t find location” complaints by **50%** within 6 months <br/>**KR1.2:** Decrease average waiting time to < **5 minutes** for 80% of rides |
+| **O1. Enhance Location Accuracy & Dispatch Efficiency**   | **KR1.1:** Reduce “driver can’t find location” complaints by **50%** within 9 months <br/>**KR1.2:** Decrease average waiting time to < **5 minutes** for 70% of rides |
 | **O2. Provide Clear, Fair, and Transparent Pricing**      | **KR2.1:** Slash fare dispute tickets by **60%** in 3 months <br/>**KR2.2:** Achieve ≤ **2%** double-charge or refund complaints |
 | **O3. Improve App Stability & Payment Integration**       | **KR3.1:** < **1%** crash rate across devices within 4 months <br/>**KR3.2:** Decrease “unable to add card” or “payment declined” errors by **70%** in 6 months       |
 | **O4. Strengthen Customer Support & Driver Communication**| **KR4.1:** Implement in-app call/chat with drivers, reduce “unable to contact driver” complaints by **80%** <br/>**KR4.2:** **90%** of support tickets resolved or updated within 24 hours |
 | **O5. Elevate Driver Satisfaction & Professionalism**      | **KR5.1:** Decrease driver cancellation rate to < **5%** <br/>**KR5.2:** Introduce rating/incentive scheme; driver rating ≥ **4.5/5** for **80%** of drivers          |
-| **O6. Expand Service Offering & Vehicle Options**         | **KR6.1:** Launch 7-seater or normal taxi options in-app within 9 months <br/>**KR6.2:** At least **15%** of monthly rides from new vehicle categories                |
+| **O6. Expand Service Offering & Vehicle Options**         | **KR6.1:** Launch 7-seater or normal taxi options in-app within 12 months <br/>**KR6.2:** At least **15%** of monthly rides from new vehicle categories                |
 
 ---
 
-# **3. PAIN POINT-TO-PRIORITY MAPPING**
+# **5. PAIN POINT-TO-PRIORITY MAPPING**
 
 The table below **maps each pain point** to relevant OKRs and assigns **priority** (High, Medium, or Low) based on **customer impact** and **frequency** of complaints. **Recommended Actions** appear in the last column.
 
@@ -105,7 +99,7 @@ The table below **maps each pain point** to relevant OKRs and assigns **priority
 
 ---
 
-# **4. PHASED ROADMAP & ITERATIVE VALIDATION**
+# **6. PHASED ROADMAP & ITERATIVE VALIDATION**
 
 We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. **Key features** from the appended tables (Sections 3.1–3.4) are sprinkled throughout each phase to ensure direct correlation to user needs.
 
@@ -300,8 +294,8 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ### **NEXT STEPS**
 
-1. **Cross-Functional Sign-Off**: Present this PRD to Product, Marketing, Engineering, Legal/Compliance, and Operations. Collect feedback, finalize.  
-2. **Detailed Sprint/PI Planning**: Translate the identified features and timelines into actual sprint or PI backlog items.  
+1. **Cross-Functional Sign-Off**: PRD to Product, Marketing, Engineering, Legal/Compliance, and Operations. Collect feedback, finalize.  
+2. **Detailed Sprint/PI Planning**: Translate the identified features and timelines into actual SAFe sprint or PI backlog items.  
 3. **Pilot Execution**: Select initial regions or user segments for pilot programs (e.g., fare transparency, loyalty revamp) to validate immediate assumptions.  
 4. **Monitoring & Course-Correction**: Continuously monitor metrics. If they deviate from targets, adapt quickly in the next iteration or sprint.
 
