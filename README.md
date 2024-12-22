@@ -1,6 +1,6 @@
 # Elevate-CX-360
 
-### **1. EXECUTIVE SUMMARY**
+### **1. Executive Summary**
 
 **1.1 Purpose & Vision**  
 - **Purpose**: Deliver an industry-defining **Customer Excellence Ecosystem (CEE)** that revolutionizes how passengers, drivers, and our internal teams experience the ride-hailing platform.  
@@ -20,7 +20,7 @@
 
 ---
 
-### **2. PRODUCT & ECOSYSTEM SCOPE**
+### **2. Product & Ecosystem Scope**
 
 **2.1 Current State Audit**  
 - **User Journeys**: Booking flows, fare transparency, in-ride experience, driver interactions, post-ride feedback & loyalty.  
@@ -35,7 +35,7 @@
 
 ---
 
-## **3. SUMMARY OF KEY PAIN POINTS**
+## **3. Summary of Key Pain Points**
 
 The table below consolidates **app store feedback** and user complaints, grouped by category. **Names have been removed** to protect user privacy. Where direct quotes are available, we have redacted identifying details.
 
@@ -61,7 +61,7 @@ The table below consolidates **app store feedback** and user complaints, grouped
 
 ---
 
-# **4. PROPOSED OKRs FOR RESOLVING PAIN POINTS**
+# **4. Proposed OKRs for resolving key Pain Points**
 
 | **Objective (O)**                                         | **Key Results (KR)**                                                                                         |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -74,7 +74,7 @@ The table below consolidates **app store feedback** and user complaints, grouped
 
 ---
 
-# **5. PAIN POINT-TO-PRIORITY MAPPING**
+# **5. Pain Point-To-Priority mapping**
 
 The table below **maps each pain point** to relevant OKRs and assigns **priority** (High, Medium, or Low) based on **customer impact** and **frequency** of complaints. **Recommended Actions** appear in the last column.
 
@@ -99,7 +99,7 @@ The table below **maps each pain point** to relevant OKRs and assigns **priority
 
 ---
 
-# **6. PHASED ROADMAP & ITERATIVE VALIDATION**
+# **6. Phased Roadmap & Iterative Validation**
 
 We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. **Key features** from the appended tables (Sections 3.1–3.4) are sprinkled throughout each phase to ensure direct correlation to user needs.
 
@@ -168,7 +168,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-# **5. BRAND, MARKETING, COMMUNICATIONS, COMPLIANCE INTEGRATION**
+# **5. Brand, Marketing, Communications, Compliance Integration**
 
 1. **Brand & Marketing**  
    - **Campaign Themes**: Emphasize transparency (“no hidden charges”), innovative app features (7-seater, quiet trip toggle), strong driver training.  
@@ -190,7 +190,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-# **6. RISK MANAGEMENT & TRADE-OFFS**
+# **6. Risk management & Trade-Offs**
 
 | **Risk**                                    | **Potential Impact**                                        | **Mitigation**                                                                                                 | **Contingency Plan**                                                                              |
 |--------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -203,7 +203,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-# **APPENDIX: FULL FEATURE & IDEA TABLES**
+# **Full Feature & Idea tables**
 
 ---
 
