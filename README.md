@@ -6,6 +6,8 @@
 &nbsp;&nbsp;&nbsp;[1.1 Purpose & Vision](#11-purpose--vision)<br>
 &nbsp;&nbsp;&nbsp;[1.2 Strategic Objectives](#12-strategic-objectives)<br>
 [2. Product & Ecosystem Scope](#2-product--ecosystem-scope)<br>
+&nbsp;&nbsp;&nbsp;[2.1 Current State Audit](#21-current-state-audit)<br>
+&nbsp;&nbsp;&nbsp;[2.2 Future State Aspirations](#22-future-state-aspirations)<br>
 [3. Summary of Key Pain Points](#3-summary-of-key-pain-points)<br>
 [4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)<br>
 [5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)<br>
@@ -23,13 +25,15 @@
 &nbsp;&nbsp;&nbsp;[9.4 Operational & Misc. Improvements](#94-operational--misc-improvements)<br>
 
 ### **1. Executive Summary**
-
+---
 #### **1.1 Purpose & Vision**  
+---
 - **Purpose**: Deliver an industry-defining **Customer Excellence Ecosystem (CEE)** that revolutionizes how passengers, drivers, and our internal teams experience the ride-hailing platform.  
 - **Vision**: Become the **global benchmark** in mobility, seamlessly blending **personalized UX**, **proactive driver excellence**, **robust compliance**, and **brand synergy**—all supported by **advanced analytics** and **iterative improvement**.
 
-
+---
 #### **1.2 Strategic Objectives**
+---
 
 | **Objective**                                     | **Key Result (KR)**                                                                                                |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -44,12 +48,16 @@
 
 ### **2. Product & Ecosystem Scope**
 
+---
 #### **2.1 Current State Audit**  
+---
 - **User Journeys**: Booking flows, fare transparency, in-ride experience, driver interactions, post-ride feedback & loyalty.  
 - **Operational Processes**: Customer Support (CS), driver onboarding, marketing campaigns, QA, compliance checks, brand messaging.  
 - **Technology Stack**: Mobile apps (iOS/Android), back-end services, data pipelines, analytics, Mobile Data Terminals, CRM, and legal compliance modules.
 
+---
 #### **2.2 Future State Aspirations**  
+---
 - **Seamless, Personalized UX**: Users feel the platform “knows” them, from pick-up preferences to loyalty rewards.  
 - **Proactive Support & Driver Excellence**: Issues get resolved before users escalate, drivers are thoroughly trained, monitored, and rewarded.  
 - **Global Scalability with Local Compliance**: Region-specific data residency and privacy compliance without hindering growth.  
