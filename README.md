@@ -11,6 +11,10 @@
 [7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)<br>
 [8. Risk management & Trade-Offs](#8-risk-management--trade-offs)<br>
 [9. Features](#9-Features)<br>
+ [9.1 Passenger-Facing Features](#91-passenger-facing-features)<br>
+ [9.2 Driver-Facing Features](#92-driver-facing-features)<br>
+ [9.3 Payment & Backend Features](#93-payment--backend-features)<br>
+ [9.4 Operational & Misc. Improvements](#94-operational--misc-improvements)<br>
 
 ### **1. Executive Summary**
 
@@ -180,7 +184,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-# **7. Brand, Marketing, Communications, Compliance Integration**
+## **7. Brand, Marketing, Communications, Compliance Integration**
 
 1. **Brand & Marketing**  
    - **Campaign Themes**: Emphasize transparency (“no hidden charges”), innovative app features (7-seater, quiet trip toggle), strong driver training.  
@@ -202,7 +206,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-# **8. Risk management & Trade-Offs**
+## **8. Risk management & Trade-Offs**
 
 | **Risk**                                    | **Potential Impact**                                        | **Mitigation**                                                                                                 | **Contingency Plan**                                                                              |
 |--------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -215,11 +219,11 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-# **9. Features**
+## **9. Features**
 
 ---
 
-## **9.1 Passenger-Facing Features**
+#### **9.1 Passenger-Facing Features**
 
 | **Feature/Idea**                             | **Problem Solved**                                                                                                                                | **Proposed Approach**                                                                                                                                                              | **OKR Link**                              | **Potential Impact**                                                                        | **Priority**            |
 |---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------------------------------|-------------------------|
@@ -241,7 +245,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-## **9.2 Driver-Facing Features**
+#### **9.2 Driver-Facing Features**
 
 | **Feature/Idea**                            | **Problem Solved**                                                                                                                  | **Proposed Approach**                                                                                                                                      | **OKR Link**                         | **Potential Impact**                                                                                     | **Priority**                |
 |--------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|----------------------------------------------------------------------------------------------------------------|-----------------------------|
@@ -260,7 +264,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-## **9.3 Payment & Backend Features**
+#### **9.3 Payment & Backend Features**
 
 | **Feature/Idea**                    | **Problem Solved**                                                                                                   | **Proposed Approach**                                                                                                                                               | **OKR Link**              | **Potential Impact**                                                                  | **Priority**           |
 |-------------------------------------|-----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|----------------------------------------------------------------------------------------|------------------------|
@@ -273,7 +277,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-## **9.4 Operational & Misc. Improvements**
+#### **9.4 Operational & Misc. Improvements**
 
 | **Feature/Idea**                                      | **Problem Solved**                                                                                  | **Proposed Approach**                                                                                                          | **OKR Link**                 | **Potential Impact**                                                                        | **Priority**              |
 |-------------------------------------------------------|------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------------------------------|---------------------------|
