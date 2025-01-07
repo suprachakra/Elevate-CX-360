@@ -2,15 +2,15 @@
 
 # Table of Contents
 
-[1. Executive Summary](#1-executive-summary)
-[2. Product & Ecosystem Scope](#2-product--ecosystem-scope)
-[3. Summary of Key Pain Points](#3-summary-of-key-pain-points)
-[4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)
-[5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)
-[6. Phased Roadmap & Iterative Validation](#6-phased-roadmap--iterative-validation)
-[7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)
-[8. Risk management & Trade-Offs](#8-risk-management--trade-offs)
-[9. Features](#9-Features)
+[1. Executive Summary](#1-executive-summary)<br>
+[2. Product & Ecosystem Scope](#2-product--ecosystem-scope)<br>
+[3. Summary of Key Pain Points](#3-summary-of-key-pain-points)<br>
+[4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)<br>
+[5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)<br>
+[6. Phased Roadmap & Iterative Validation](#6-phased-roadmap--iterative-validation)<br>
+[7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)<br>
+[8. Risk management & Trade-Offs](#8-risk-management--trade-offs)<br>
+[9. Features](#9-Features)<br>
 
 ### **1. Executive Summary**
 
