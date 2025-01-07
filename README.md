@@ -3,6 +3,8 @@
 # Table of Contents
 
 [1. Executive Summary](#1-executive-summary)<br>
+&nbsp;&nbsp;&nbsp;[1.1 Purpose & Vision](#11-purpose--vision)<br>
+&nbsp;&nbsp;&nbsp;[1.2 Strategic Objectives](#12-strategic-objectives)<br>
 [2. Product & Ecosystem Scope](#2-product--ecosystem-scope)<br>
 [3. Summary of Key Pain Points](#3-summary-of-key-pain-points)<br>
 [4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)<br>
@@ -42,12 +44,12 @@
 
 ### **2. Product & Ecosystem Scope**
 
-**2.1 Current State Audit**  
+#### **2.1 Current State Audit**  
 - **User Journeys**: Booking flows, fare transparency, in-ride experience, driver interactions, post-ride feedback & loyalty.  
 - **Operational Processes**: Customer Support (CS), driver onboarding, marketing campaigns, QA, compliance checks, brand messaging.  
 - **Technology Stack**: Mobile apps (iOS/Android), back-end services, data pipelines, analytics, Mobile Data Terminals, CRM, and legal compliance modules.
 
-**2.2 Future State Aspirations**  
+#### **2.2 Future State Aspirations**  
 - **Seamless, Personalized UX**: Users feel the platform “knows” them, from pick-up preferences to loyalty rewards.  
 - **Proactive Support & Driver Excellence**: Issues get resolved before users escalate, drivers are thoroughly trained, monitored, and rewarded.  
 - **Global Scalability with Local Compliance**: Region-specific data residency and privacy compliance without hindering growth.  
@@ -123,6 +125,7 @@ The table below **maps each pain point** to relevant OKRs and assigns **priority
 
 We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. 
 
+---
 #### **6.1 Phase 1 (0–3 Months): Quick Wins & Foundational Fixes**
 ---
 
@@ -142,6 +145,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Monitor dispute rates & cancellation logs weekly  
 - Gather driver and passenger feedback via quick in-app surveys
 
+---
 #### **6.2 Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency**
 ---
 
@@ -160,6 +164,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Track e-wallet usage & user satisfaction  
 - Weekly sprints with pilot test groups for scheduling reliability
 
+---
 #### **6.3 Phase 3 (6–12 Months): Scaling & Intelligence**
 ---
 
@@ -175,6 +180,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Weekly data scrums analyzing driver rating distribution, user churn, wait times  
 - Focus-group feedback on 7-seater or normal taxi usage
 
+---
 #### **6.4 Phase 4 (12+ Months): Future Innovations & Continuous Optimization**
 ---
 
