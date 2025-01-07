@@ -67,7 +67,7 @@
 
 ### **3. Summary of Key Pain Points**
 
-The table below consolidates **app store feedback** and user complaints, grouped by category. **Names have been removed** to protect user privacy. Where direct quotes are available, we have redacted identifying details.
+> The table below consolidates **app store feedback** and user complaints, grouped by category. **Names have been removed** to protect user privacy. Where direct quotes are available, we have redacted identifying details.
 
 | **Category**                 | **Pain Point / Issue**                                                               | **User Impact / Example Quotes**                                                                                                                            | **Potential Root Cause**                                                                                                                  |
 |------------------------------|---------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -106,7 +106,7 @@ The table below consolidates **app store feedback** and user complaints, grouped
 
 ### **5. Pain Point-To-Priority mapping**
 
-The table below **maps each pain point** to relevant OKRs and assigns **priority** (High, Medium, or Low) based on **customer impact** and **frequency** of complaints. **Recommended Actions** appear in the last column.
+> The table below **maps each pain point** to relevant OKRs and assigns **priority** (High, Medium, or Low) based on **customer impact** and **frequency** of complaints. **Recommended Actions** appear in the last column.
 
 | **Pain Point**                                                    | **OKR Link**               | **Priority** | **Recommended Actions**                                                                                                                      |
 |-------------------------------------------------------------------|----------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -131,7 +131,7 @@ The table below **maps each pain point** to relevant OKRs and assigns **priority
 
 ### **6. Phased Roadmap & Iterative Validation**
 
-We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. 
+> We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. 
 
 ---
 #### **6.1 Phase 1 (0–3 Months): Quick Wins & Foundational Fixes**
