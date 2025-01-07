@@ -8,16 +8,16 @@
 [4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)<br>
 [5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)<br>
 [6. Phased Roadmap & Iterative Validation](#6-phased-roadmap--iterative-validation)<br>
-&nbsp;[Phase 1 (0–3 Months): Quick Wins & Foundational Fixes](#phase-1-03-months-quick-wins--foundational-fixes)<br>
-&nbsp;[Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency](#phase-2-36-months-mid-term-engagement--efficiency)<br>
-&nbsp;[Phase 3 (6–12 Months): Scaling & Intelligence](#phase-3-612-months-scaling--intelligence)<br>
+&nbsp;&nbsp;&nbsp;[Phase 1 (0–3 Months): Quick Wins & Foundational Fixes](#phase-1-03-months-quick-wins--foundational-fixes)<br>
+&nbsp;&nbsp;&nbsp;[Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency](#phase-2-36-months-mid-term-engagement--efficiency)<br>
+&nbsp;&nbsp;&nbsp;[Phase 3 (6–12 Months): Scaling & Intelligence](#phase-3-612-months-scaling--intelligence)<br>
 [7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)<br>
 [8. Risk management & Trade-Offs](#8-risk-management--trade-offs)<br>
 [9. Features](#9-Features)<br>
-&nbsp;[9.1 Passenger-Facing Features](#91-passenger-facing-features)<br>
-&nbsp;[9.2 Driver-Facing Features](#92-driver-facing-features)<br>
-&nbsp;[9.3 Payment & Backend Features](#93-payment--backend-features)<br>
-&nbsp;[9.4 Operational & Misc. Improvements](#94-operational--misc-improvements)<br>
+&nbsp;&nbsp;&nbsp;[9.1 Passenger-Facing Features](#91-passenger-facing-features)<br>
+&nbsp;&nbsp;&nbsp;[9.2 Driver-Facing Features](#92-driver-facing-features)<br>
+&nbsp;&nbsp;&nbsp;[9.3 Payment & Backend Features](#93-payment--backend-features)<br>
+&nbsp;&nbsp;&nbsp;[9.4 Operational & Misc. Improvements](#94-operational--misc-improvements)<br>
 
 ### **1. Executive Summary**
 
