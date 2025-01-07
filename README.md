@@ -8,9 +8,10 @@
 [4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)<br>
 [5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)<br>
 [6. Phased Roadmap & Iterative Validation](#6-phased-roadmap--iterative-validation)<br>
-&nbsp;&nbsp;&nbsp;[Phase 1 (0–3 Months): Quick Wins & Foundational Fixes](#phase-1-03-months-quick-wins--foundational-fixes)<br>
-&nbsp;&nbsp;&nbsp;[Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency](#phase-2-36-months-mid-term-engagement--efficiency)<br>
-&nbsp;&nbsp;&nbsp;[Phase 3 (6–12 Months): Scaling & Intelligence](#phase-3-612-months-scaling--intelligence)<br>
+&nbsp;&nbsp;&nbsp;[6.1 Phase 1 (0–3 Months): Quick Wins & Foundational Fixes](#61-phase-1-03-months-quick-wins--foundational-fixes)<br>
+&nbsp;&nbsp;&nbsp;[6.2 Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency](#62-phase-2-36-months-mid-term-engagement--efficiency)<br>
+&nbsp;&nbsp;&nbsp;[6.3 Phase 3 (6–12 Months): Scaling & Intelligence](#63-phase-3-612-months-scaling--intelligence)<br>
+&nbsp;&nbsp;&nbsp;[6.4 Phase 4 (12+ Months): Future Innovations & Continuous Optimization](#64-phase-4-12-months-future-innovations--continuous-optimization)<br>
 [7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)<br>
 [8. Risk management & Trade-Offs](#8-risk-management--trade-offs)<br>
 [9. Features](#9-Features)<br>
