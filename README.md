@@ -121,9 +121,10 @@ The table below **maps each pain point** to relevant OKRs and assigns **priority
 
 ### **6. Phased Roadmap & Iterative Validation**
 
-We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. **Key features** from the appended tables (Sections 3.1–3.4) are sprinkled throughout each phase to ensure direct correlation to user needs.
+We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. 
 
 #### **6.1 Phase 1 (0–3 Months): Quick Wins & Foundational Fixes**
+---
 
 - **Location & Search Enhancements**  
   - *Front-end revamp of pin drop*, *Improving PUDO*, “Report Address” feature  
@@ -142,6 +143,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Gather driver and passenger feedback via quick in-app surveys
 
 #### **6.2 Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency**
+---
 
 - **Transparent Pricing & Surge**  
   - Dynamic pricing for peak times, itemized breakdown in booking  
@@ -158,7 +160,8 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Track e-wallet usage & user satisfaction  
 - Weekly sprints with pilot test groups for scheduling reliability
 
-### **6.3 Phase 3 (6–12 Months): Scaling & Intelligence**
+#### **6.3 Phase 3 (6–12 Months): Scaling & Intelligence**
+---
 
 - **Driver Professionalism & Behavior**  
   - Standardized driver training, rating resets, and AR-based modules (if feasible)  
@@ -173,6 +176,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Focus-group feedback on 7-seater or normal taxi usage
 
 #### **6.4 Phase 4 (12+ Months): Future Innovations & Continuous Optimization**
+---
 
 - **Advanced Features**  
   - AI Chat/Helpdesk for complex queries, voice input for search fully rolled out  
