@@ -2,19 +2,19 @@
 
 # Table of Contents
 
-1. [1. Executive Summary](#1-executive-summary)
-2. [2. Product & Ecosystem Scope](#2-product--ecosystem-scope)
-3. [3. Summary of Key Pain Points](#3-summary-of-key-pain-points)
-4. [4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)
-5. [5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)
-6. [6. Phased Roadmap & Iterative Validation](#6-phased-roadmap--iterative-validation)
-7. [7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)
-8. [8. Risk management & Trade-Offs](#8-risk-management--trade-offs)
-9. [9. Features](#9-Features)
+[1. Executive Summary](#1-executive-summary)
+[2. Product & Ecosystem Scope](#2-product--ecosystem-scope)
+[3. Summary of Key Pain Points](#3-summary-of-key-pain-points)
+[4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)
+[5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)
+[6. Phased Roadmap & Iterative Validation](#6-phased-roadmap--iterative-validation)
+[7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)
+[8. Risk management & Trade-Offs](#8-risk-management--trade-offs)
+[9. Features](#9-Features)
 
 ### **1. Executive Summary**
 
-**1.1 Purpose & Vision**  
+#### **1.1 Purpose & Vision**  
 - **Purpose**: Deliver an industry-defining **Customer Excellence Ecosystem (CEE)** that revolutionizes how passengers, drivers, and our internal teams experience the ride-hailing platform.  
 - **Vision**: Become the **global benchmark** in mobility, seamlessly blending **personalized UX**, **proactive driver excellence**, **robust compliance**, and **brand synergy**—all supported by **advanced analytics** and **iterative improvement**.
 
