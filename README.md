@@ -8,13 +8,16 @@
 [4. Proposed OKRs for resolving key Pain Points](#4-proposed-okrs-for-resolving-key-pain-points)<br>
 [5. Pain Point-To-Priority mapping](#5-pain-point-to-priority-mapping)<br>
 [6. Phased Roadmap & Iterative Validation](#6-phased-roadmap--iterative-validation)<br>
+&nbsp;[Phase 1 (0–3 Months): Quick Wins & Foundational Fixes](#phase-1-03-months-quick-wins--foundational-fixes)<br>
+&nbsp;[Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency](#phase-2-36-months-mid-term-engagement--efficiency)<br>
+&nbsp;[Phase 3 (6–12 Months): Scaling & Intelligence](#phase-3-612-months-scaling--intelligence)<br>
 [7. Brand, Marketing, Communications, Compliance Integration](#7-brand-marketing-communications-compliance-integration)<br>
 [8. Risk management & Trade-Offs](#8-risk-management--trade-offs)<br>
 [9. Features](#9-Features)<br>
- [9.1 Passenger-Facing Features](#91-passenger-facing-features)<br>
- [9.2 Driver-Facing Features](#92-driver-facing-features)<br>
- [9.3 Payment & Backend Features](#93-payment--backend-features)<br>
- [9.4 Operational & Misc. Improvements](#94-operational--misc-improvements)<br>
+&nbsp;[9.1 Passenger-Facing Features](#91-passenger-facing-features)<br>
+&nbsp;[9.2 Driver-Facing Features](#92-driver-facing-features)<br>
+&nbsp;[9.3 Payment & Backend Features](#93-payment--backend-features)<br>
+&nbsp;[9.4 Operational & Misc. Improvements](#94-operational--misc-improvements)<br>
 
 ### **1. Executive Summary**
 
@@ -23,7 +26,7 @@
 - **Vision**: Become the **global benchmark** in mobility, seamlessly blending **personalized UX**, **proactive driver excellence**, **robust compliance**, and **brand synergy**—all supported by **advanced analytics** and **iterative improvement**.
 
 
-**1.2 Strategic Objectives**
+#### **1.2 Strategic Objectives**
 
 | **Objective**                                     | **Key Result (KR)**                                                                                                |
 |---------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -51,7 +54,7 @@
 
 ---
 
-## **3. Summary of Key Pain Points**
+### **3. Summary of Key Pain Points**
 
 The table below consolidates **app store feedback** and user complaints, grouped by category. **Names have been removed** to protect user privacy. Where direct quotes are available, we have redacted identifying details.
 
@@ -77,7 +80,7 @@ The table below consolidates **app store feedback** and user complaints, grouped
 
 ---
 
-# **4. Proposed OKRs for resolving key Pain Points**
+### **4. Proposed OKRs for resolving key Pain Points**
 
 | **Objective (O)**                                         | **Key Results (KR)**                                                                                         |
 |-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
@@ -90,7 +93,7 @@ The table below consolidates **app store feedback** and user complaints, grouped
 
 ---
 
-# **5. Pain Point-To-Priority mapping**
+### **5. Pain Point-To-Priority mapping**
 
 The table below **maps each pain point** to relevant OKRs and assigns **priority** (High, Medium, or Low) based on **customer impact** and **frequency** of complaints. **Recommended Actions** appear in the last column.
 
@@ -115,11 +118,11 @@ The table below **maps each pain point** to relevant OKRs and assigns **priority
 
 ---
 
-# **6. Phased Roadmap & Iterative Validation**
+### **6. Phased Roadmap & Iterative Validation**
 
 We propose an **agile approach** with short sprints for quick wins, followed by incremental expansions for bigger features. **Key features** from the appended tables (Sections 3.1–3.4) are sprinkled throughout each phase to ensure direct correlation to user needs.
 
-### **Phase 1 (0–3 Months): Quick Wins & Foundational Fixes**
+#### **Phase 1 (0–3 Months): Quick Wins & Foundational Fixes**
 
 - **Location & Search Enhancements**  
   - *Front-end revamp of pin drop*, *Improving PUDO*, “Report Address” feature  
@@ -137,7 +140,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Monitor dispute rates & cancellation logs weekly  
 - Gather driver and passenger feedback via quick in-app surveys
 
-### **Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency**
+#### **Phase 2 (3–6 Months): Mid-Term Engagement & Efficiency**
 
 - **Transparent Pricing & Surge**  
   - Dynamic pricing for peak times, itemized breakdown in booking  
@@ -168,7 +171,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 - Weekly data scrums analyzing driver rating distribution, user churn, wait times  
 - Focus-group feedback on 7-seater or normal taxi usage
 
-### **Phase 4 (12+ Months): Future Innovations & Continuous Optimization**
+#### **Phase 4 (12+ Months): Future Innovations & Continuous Optimization**
 
 - **Advanced Features**  
   - AI Chat/Helpdesk for complex queries, voice input for search fully rolled out  
@@ -184,7 +187,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-## **7. Brand, Marketing, Communications, Compliance Integration**
+### **7. Brand, Marketing, Communications, Compliance Integration**
 
 1. **Brand & Marketing**  
    - **Campaign Themes**: Emphasize transparency (“no hidden charges”), innovative app features (7-seater, quiet trip toggle), strong driver training.  
@@ -206,7 +209,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-## **8. Risk management & Trade-Offs**
+### **8. Risk management & Trade-Offs**
 
 | **Risk**                                    | **Potential Impact**                                        | **Mitigation**                                                                                                 | **Contingency Plan**                                                                              |
 |--------------------------------------------|-------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -219,7 +222,7 @@ We propose an **agile approach** with short sprints for quick wins, followed by 
 
 ---
 
-## **9. Features**
+### **9. Features**
 
 ---
 
